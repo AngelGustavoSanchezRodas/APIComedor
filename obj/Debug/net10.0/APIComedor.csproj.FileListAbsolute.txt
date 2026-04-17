@@ -38,3 +38,4 @@ C:\Users\USER\Desktop\C#\APIComedor\obj\Debug\net10.0\refint\APIComedor.dll
 C:\Users\USER\Desktop\C#\APIComedor\obj\Debug\net10.0\APIComedor.pdb
 C:\Users\USER\Desktop\C#\APIComedor\obj\Debug\net10.0\APIComedor.genruntimeconfig.cache
 C:\Users\USER\Desktop\C#\APIComedor\obj\Debug\net10.0\ref\APIComedor.dll
+C:\Users\USER\Desktop\C#\APIComedor\obj\Debug\net10.0\APIComedor.sourcelink.json

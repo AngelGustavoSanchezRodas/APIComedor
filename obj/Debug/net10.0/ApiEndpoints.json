@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "MenuComedorController",
+    "ContainingType": "APIComedor.Controllers.MenuComedorController",
     "Method": "GetMenus",
     "RelativePath": "api/MenuComedor",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "MenuComedorController",
+    "ContainingType": "APIComedor.Controllers.MenuComedorController",
     "Method": "PostMenu",
     "RelativePath": "api/MenuComedor",
     "HttpMethod": "POST",
@@ -46,33 +46,7 @@
     ]
   },
   {
-    "ContainingType": "MenuComedorController",
-    "Method": "GetMenu",
-    "RelativePath": "api/MenuComedor/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "APIComedor.model.MenuComedor_13449",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MenuComedorController",
+    "ContainingType": "APIComedor.Controllers.MenuComedorController",
     "Method": "PutMenu",
     "RelativePath": "api/MenuComedor/{id}",
     "HttpMethod": "PUT",
@@ -93,7 +67,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MenuComedorController",
+    "ContainingType": "APIComedor.Controllers.MenuComedorController",
     "Method": "DeleteMenu",
     "RelativePath": "api/MenuComedor/{id}",
     "HttpMethod": "DELETE",
